@@ -236,11 +236,9 @@ Potential enhancements include:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Team
 
-**Wasama Adal**
-
-Computer Organization & Assembly Language (COAL) Project
+Wasama Adal, Kisfa Javed, Iman Fatima, Leeza Qayyum
 
 ---
 
